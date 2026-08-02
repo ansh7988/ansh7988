@@ -6,8 +6,8 @@
 <h3 align="center">AI/ML Enthusiast · Backend Developer</h3>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/ansh7988?label=Followers&style=for-the-badge&color=FF6EC7&labelColor=1B0F2E" alt="Followers"/>
-<img src="https://komarev.com/ghpvc/?username=ansh7988&label=Profile%20Views&style=for-the-badge&color=6EF6E0&labelColor=1B0F2E" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/ansh7988?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0B0E17" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ansh7988&label=Profile%20Views&style=for-the-badge&color=38BDF8&labelColor=0B0E17" alt="Profile Views"/>
 </p>
 
 <br/>
@@ -41,16 +41,28 @@
 
 <br/>
 
-### 📊 GitHub Analytics
+### 📌 Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ansh7988&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh7988&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [**Jarvis**](https://github.com/ansh7988/Jarvis) | Personal AI voice assistant | `Python` |
+| [**Vyom-AI**](https://github.com/ansh7988/Vyom-AI) | AI-focused project | `Python` |
+| [**summer-demo**](https://github.com/ansh7988/summer-demo) | Summer project repository | `HTML` |
+| [**ansh7988**](https://github.com/ansh7988/ansh7988) | GitHub profile README & developer portfolio | `Markdown` |
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh7988&theme=synthwave&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
-</p>
+<br/>
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+| Contributions (last year) | Repos contributed to | Commits this month |
+|:---:|:---:|:---:|
+| **85** | **3** | **16** |
+
+</div>
+
+**August 2026** — 16 commits across 3 repositories: `Jarvis` (8), `ansh7988` (7), `Vyom-AI` (1). Opened 2 new repositories this month: `ansh7988` and `Vyom-AI`.
 
 <br/>
 
@@ -59,7 +71,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/anshdeep-singh-392440378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/ansh7988"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:anshdeep7988@gmail.com"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:anshdeep7988@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center"><i>See you in the next commit </i></p>
+<p align="center"><sub>Open to AI/ML & backend roles — feel free to reach out</sub></p>
