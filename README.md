@@ -1,64 +1,70 @@
 <div align="center">
-
-<img src="anshdeep-singh-github-banner.png" width="100%" alt="Anshdeep Singh — AI/ML & Backend Engineering" />
+<img src="anshdeep-singh-github-banner.png" width="100%" alt="Anshdeep Singh" />
+</div>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/anshdeep7988%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshdeep7988@gmail.com)
-![Open to work](https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Backend%20Roles-2ea44f?style=flat-square)
+<table width="100%">
+<tr>
+<td width="140">
+<img src="avatar.png" width="120" alt="Anshdeep Singh" />
+</td>
+<td>
 
-</div>
+### Anshdeep Singh
+**B.Tech CSE, Lovely Professional University**
 
-## About Me
+AI/ML · Backend Development · Intelligent Systems
 
-I'm a B.Tech Computer Science student at **Lovely Professional University**, focused on **AI/ML**, **backend development**, and **intelligent systems**. I learn best by building — turning ideas into working software rather than only studying them in theory.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshdeep-singh-392440378/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshdeep7988@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ansh7988)
 
-I enjoy solving real problems through code, and I'm always open to connecting with other developers, students, and professionals to learn, collaborate, and grow.
+</td>
+</tr>
+</table>
 
-## Currently Building
+<br/>
 
-**JARVIS V2** — the next version of my personal AI voice assistant, focused on automation and creating smarter, more natural user experiences. It's where I apply what I'm learning in AI and backend engineering to a real, evolving project.
+### About
 
-## Tech Stack
+I'm a B.Tech Computer Science student focused on AI/ML, backend development, and intelligent systems. I learn by building — turning ideas into working software rather than only studying them in theory. I enjoy solving problems through code, and I'm always open to connecting with other developers, students, and professionals to learn, collaborate, and grow.
 
-<div align="left">
+**Currently building:** [`JARVIS V2`](https://github.com/ansh7988/Jarvis) — the next version of my personal AI voice assistant, focused on automation and creating smarter, more natural user experiences.
+
+**Currently exploring:** opportunities in AI/ML and backend development.
+
+<br/>
+
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+<br/>
 
-## Featured Projects
+### Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Jarvis**](https://github.com/ansh7988/Jarvis) | Personal AI voice assistant | Python |
-| [**summer-demo**](https://github.com/ansh7988/summer-demo) | Summer project repository | HTML |
-| [**Vyom-AI**](https://github.com/ansh7988/Vyom-AI) | AI-focused project | — |
+| [**Jarvis**](https://github.com/ansh7988/Jarvis) | Personal AI voice assistant | `Python` |
+| [**Vyom-AI**](https://github.com/ansh7988/Vyom-AI) | AI-focused project | `Python` |
+| [**summer-demo**](https://github.com/ansh7988/summer-demo) | Summer project repository | `HTML` |
 
-## GitHub Stats
+<br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh7988&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh7988&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh7988&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh7988&show_icons=true&hide_border=true&count_private=true&bg_color=0B0E14&title_color=5EEAD4&text_color=ECEFF5&icon_color=F5AD5C" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh7988&layout=compact&hide_border=true&bg_color=0B0E14&title_color=5EEAD4&text_color=ECEFF5" alt="Top Languages"/>
 
 </div>
 
-## Connect With Me
+<br/>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh7988)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshdeep7988@gmail.com)
-
-</div>
-
-<div align="center">
-<sub>B.Tech CSE, Lovely Professional University · Exploring opportunities in AI/ML and backend development</sub>
+<sub>Open to AI/ML & backend roles — feel free to reach out</sub>
 </div>
