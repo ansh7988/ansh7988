@@ -62,4 +62,4 @@
 <a href="mailto:anshdeep7988@gmail.com"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center"><i>See you in the next commit 🌸</i></p>
+<p align="center"><i>See you in the next commit </i></p>
