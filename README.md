@@ -1,5 +1,5 @@
 <div align="center">
-<img src="anshdeep-singh-github-banner(1).png" width="100%" alt="Anshdeep Singh" />
+<img src="anshdeep-singh-github-banner (1).png" width="100%" alt="Anshdeep Singh" />
 </div>
 
 <h1 align="center">Hey there, I'm Anshdeep Singh 👋</h1>
