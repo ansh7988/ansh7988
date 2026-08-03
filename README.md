@@ -47,7 +47,7 @@
 |---|---|---|
 | [**Jarvis**](https://github.com/ansh7988/Jarvis) | Personal AI voice assistant | `Python` |
 | [**Vyom-AI**](https://github.com/ansh7988/Vyom-AI) | AI-focused project | `Python` |
-| [**summer-demo**](https://github.com/ansh7988/summer-demo) | Summer project repository | `HTML` |
+| [**summer-demo**](https://github.com/ansh7988/summer-demo) | Summer project repository | `HTML` | 
 | [**ansh7988**](https://github.com/ansh7988/ansh7988) | GitHub profile README & developer portfolio | `Markdown` |
 
 <br/>
