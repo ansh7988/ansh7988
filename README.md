@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey there, I'm Anshdeep Singh 👋</h1>
-<h3 align="center">AI/ML Enthusiast · Backend Developer</h3>
+<h3 align="center">AI/ML Engineer · Backend Developer</h3>
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/ansh7988?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0B0E17" alt="Followers"/>
