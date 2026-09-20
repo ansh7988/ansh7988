@@ -50,6 +50,7 @@
 | [**summer-demo**](https://github.com/ansh7988/summer-demo) | Summer project repository | `HTML` | 
 | [**ansh7988**](https://github.com/ansh7988/ansh7988) | GitHub profile README & developer portfolio | `Markdown` |
 | [**ML-leaf-disease**]( https://github.com/ansh7988/ML-leaf-disease) | ML approaches in Disease Classification | `Markdown` |
+| [**AudioDeepfakeProject**]( https://github.com/ansh7988/AudioDeepfakeProject) | Voice Cloning detection system | `Markdown` |
 
 <br/>
 
