@@ -60,7 +60,7 @@
 
 | Contributions (last year) | Repos contributed to | Commits this month |
 |:---:|:---:|:---:|
-| **510** | **6** | **116** |
+| **530** | **6** | **116** |
 
 </div>
 
